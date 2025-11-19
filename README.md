@@ -11,7 +11,7 @@
 ## Learning Scope
 
 ### Architecture Design
-- [『가상면접을 통해 배우는 대규모 시스템 설계 기초 1』](./architecture-design)
+- [『가상면접을 통해 배우는 대규모 시스템 설계 기초 1』](./architecture-design/system-design-interview-1/)
 
 
 ### Data Modeling
