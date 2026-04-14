@@ -14,6 +14,9 @@
 - [『가상면접을 통해 배우는 대규모 시스템 설계 기초 1』](./architecture-design/system-design-interview-1/)
 
 
+# Clean Architecture
+- [『클린 아키텍처 소프트웨어 구조와 설계 원칙』](./clean-architecture/session2)
+
 ### Data Modeling
 
 - [김영한의 『실전 데이터베이스 – 설계 1, 현대적 데이터 모델링 완전 정복』](./data-modeling)
